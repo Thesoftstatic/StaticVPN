@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Singapore #1 (High Speed)",
+    "country": "Singapore",
+    "link": "vless://00000000-0000-0000-0000-000000000000@sg1.v2ray.com:443?type=ws&security=tls&path=%2f#SG-Premium"
+  },
+  {
+    "name": "USA - New York",
+    "country": "United States",
+    "link": "vless://00000000-0000-0000-0000-000000000000@us1.v2ray.com:443?type=ws&security=tls&path=%2f#US-East"
+  }
+]
