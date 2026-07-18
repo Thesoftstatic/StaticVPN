@@ -1,7 +1,6 @@
 {
   "versionCode": 12,
-  "versionName": "1.1.1" 
-  "apkUrl": "https://github.com/Thesoftstatic/StaticVPN/releases/download/v1.1.1-beta/staticvpn-.v1.1.1-beta.apk"
-  "releaseNotes": "Massive UI Revamp, No-Logs Policy,Banner Ads, and Crash Fixes!"
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/Thesoftstatic/StaticVPN/releases/download/v1.1.1-beta/staticvpn-.v1.1.1-beta.apk",
+  "releaseNotes": "Massive UI Revamp, No-Logs Policy, Banner Ads, and Crash Fixes!"
 }
-
